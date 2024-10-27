@@ -1,0 +1,5 @@
+- 👀 I’m interested in web development and data science.
+- 🌱 I’m currently learning DSA concept 
+- 💞️ I’m looking to collaborate on beginner-friendly projects.
+- 📫 How to reach me: "littlelight044@gmail.com"
+- ⚡ Fun fact: I love exploring new places!
